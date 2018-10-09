@@ -6,7 +6,7 @@ See the accompanying LICENSE file for terms.
 
 /* jslint esnext: true */
 
-import IntlMessageFormat from 'intl-messageformat';
+import IntlMessageFormat from '@ember-intl/intl-messageformat';
 import diff from './diff';
 import {
     defineProperty,
